@@ -1,7 +1,7 @@
 {
   "name": "graffle-tv",
   "version": "1.0.0",
-  "description": "Collection of data visualizations powered by Graffle.io-a middle layer for building on the Flow blockchain.",
+  "description": "Data visualizations powered by Graffle.io. \n\nVisit  https://docs.onflow.org to learn more about how to start building on the Flow blockchain.",
   "author": "Nuxt.js Team",
   "private": true,
   "scripts": {

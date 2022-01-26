@@ -1,3 +1,5 @@
 <template>
-  <Tutorial />
+  <section>
+    <topshot />
+  </section>
 </template>
